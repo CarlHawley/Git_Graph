@@ -1,4 +1,5 @@
 # Git_Graph
-Carl Hawley (1)
-Git Assignment (2)
-CSCI 3323 - Fall 2022 (10)
+CSCI 3323 - Fall 2022 (3)
+Git Assignment (4)
+Carl Hawley (6)
+Due Sept 5 (12)
